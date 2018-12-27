@@ -7,6 +7,5 @@
 
 #include<stdio.h>
 int main(){
-    printf("hello world and igup");
     return 0;
 }
