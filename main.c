@@ -8,5 +8,6 @@
 #include<stdio.h>
 int main(){
     printf("hello world");
+    printf("ig upup")
     return 0;
 }
